@@ -28,6 +28,17 @@ categories: jekyll update
 3. max 노드일 떄 : 자식 노드 중 가장 작은 값을 자신의 값으로 가진다.
 4. 답은 (leaf 노드의 갯수 + 1) - (root 노드에 저장되어 있는 값)이다.
 
+이 답이 정당한 이유는 다음과 같다고 한다.
 
+![d_solves]({{ "/assets/d_solves.png" | absolute_url }})
+
+`아아아아 영어 읽기 싫어어어어`
+
+
+
+<br>
+
+[E. Serval and Snake]
 
 [D. Serval and Rooted Tree]:http://codeforces.com/contest/1153/problem/D
+[E. Serval and Snake]:http://codeforces.com/contest/1153/problem/E
