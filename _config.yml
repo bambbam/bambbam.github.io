@@ -56,3 +56,5 @@ theme: plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+kramdown:
+  input: GFM
