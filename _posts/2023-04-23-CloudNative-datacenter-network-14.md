@@ -4,6 +4,7 @@ title:  Cloud Native Datacenter Network Chapter 14
 date:   2023-04-23 00:00:00 +0930
 categories: Network
 ---
+Chapter14. BGP in Data Center
 # Chapter14. BGP in Data Center
 
 BGP is respected but also greatly feared.
