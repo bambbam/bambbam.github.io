@@ -128,6 +128,7 @@ BGP route advertisements carry little Post-it notes
         - but not all implementaions need to support this.
     - The only requirment for a reciever to process an operational attribute
         - is to forward an attributed flagged as transitive.
+
 ### BGP Community
 BGP community is an attribute that
 - allows user-extensible grouping of routes
@@ -195,6 +196,7 @@ THE AFI/SAFI list that is of interest to a BGP speaker is advertised using BGP c
 Two BGP peers exchange information about a network address onlyu if both sides advertise an interest in its AFI/SAFI.
 
 ## BGP Messages
+
 | Message Type | Use | Periodicity |
 |---|------------|---|
 | Open | Sent on session establishment to identify router and exchange capabilities  | Once |
